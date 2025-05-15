@@ -26,31 +26,20 @@ Currently at **Flex India**, after graduating with a B.Tech. in AI & Data Scienc
 ## Technologies & Tools
 
 ### Core Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
 
 ### AI/ML & GenAI
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LangChain-4B0082?style=flat" />
-<img src="https://img.shields.io/badge/RAG-Informational?style=flat" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat" />
-<img src="https://img.shields.io/badge/SageMaker-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/LangChain-4B0082?style=flat" /> <img src="https://img.shields.io/badge/RAG-Informational?style=flat" /> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat" /> <img src="https://img.shields.io/badge/SageMaker-232F3E?style=flat&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+
 
 ### Cloud & DevOps
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/MuleSoft-0075A8?style=flat" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/MuleSoft-0075A8?style=flat" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+
 
 ### Data & Analytics
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat" />
+
+
 
 ---
 
