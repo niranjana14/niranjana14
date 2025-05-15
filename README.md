@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/niranjana-devi-s-92191a200/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="niranjana_devi_resume.pdf" download>
+  <a href="Niranjana_Devi_S_Resume.pdf" download>
     <img src="https://img.shields.io/badge/Resume-Download%20PDF-2ECC71?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </div>
